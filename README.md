@@ -1,4 +1,4 @@
 Digital-Clock
 
 
-shlomo-digital-clock.netlify.app/
+https://shlomo-digital-clock.netlify.app/
